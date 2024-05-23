@@ -630,6 +630,29 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Mesh Map */
+.button.button-meshmap {
+  color: #17063B;
+  background-color: #67ea94;
+  border: 1px solid #17063B;
+}
+.button.button-meshmap:hover,
+.button.button-meshmap:focus {
+  filter: brightness(90%);
+}
+
+/* Meshtastic */
+.button.button-meshtastic {
+  color: #17063B;
+  background-color: #67ea94;
+  border: 1px solid #17063B;
+}
+.button.button-meshtastic:hover,
+.button.button-meshtastic:focus {
+  filter: brightness(90%);
+}
+
+
 /* Microsoft */
 .button.button-microsoft {
   color: #ffffff;
